@@ -1,0 +1,7 @@
+[
+  {
+    "date": "2026-07-05T00:33:15.992865",
+    "discussion": "Sarah: We should start using this app\nTom: I agree, let's make it our standard\nPriya: I'll write the docs",
+    "analysis": "\n## \ud83d\udcca Meeting Analysis (DEMO - Not Real AI Yet)\n\n### 1\ufe0f\u20e3 KEY DECISIONS\n- Team will use this app for meeting notes\n- Sprints are 2 weeks long\n- Code reviews required before merge\n\n### 2\ufe0f\u20e3 ACTION ITEMS\n- **Sarah**: Set up meeting schedule (by Friday)\n- **Tom**: Create project board (by Monday)\n- **Priya**: Write API documentation (by next week)\n\n### 3\ufe0f\u20e3 QUESTIONS UNANSWERED\n- How will we handle conflict in the team?\n- What's the budget for tools/hosting?\n- When can we hire more developers?\n\n### 4\ufe0f\u20e3 TEAM MEMBERS\nSarah, Tom, Priya, I'll\n\n---\n**\u26a0\ufe0f This is a DEMO.** When you add your OpenAI API key, it will be real AI!\n"
+  }
+]
